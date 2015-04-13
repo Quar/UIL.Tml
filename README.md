@@ -42,9 +42,9 @@ Or short URL: http://goo.gl/opVpb2
 [uil.about]: /Quar/utilityinvest.tml/wiki/About%20and%20FAQ.md
 [uil.wiki]: /Quar/utilityinvest.tml/wiki/Home
 
-[wiki.quickstart]: /Quar/utilityinvest.tml/wiki/Quick%20Start%20Guide.md
-[wiki.role]: /Quar/utilityinvest.tml/wiki/Role-playing.md
-[wiki.contrib]: /Quar/utilityinvest.tml/wiki/Contribute%20to%20UIL.TML.md
+[wiki.quickstart]: /Quar/utilityinvest.tml/wiki/pages/Quick%20Start%20Guide.md
+[wiki.role]: /Quar/utilityinvest.tml/wiki/pages/Role-playing.md
+[wiki.contrib]: /Quar/utilityinvest.tml/wiki/pages/Contribute%20to%20UIL.TML.md
 
 [ext.jar]: https://en.wikipedia.org/wiki/JAR_%28file_format%29
 [ext.irp]: http://www.osti.gov/scitech/biblio/6719825
