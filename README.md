@@ -31,7 +31,7 @@ Please visit our [**Quick Start Guide**][wiki.quickstart] for step-by-step instr
 
 All informations are hosted on our [**UIL Wiki**][uil.wiki].
 
-Please visit: https://bitbucket.org/Quar/uil.tml/wiki/Home
+Please visit: https://github.com/Quar/UIL.TML/wikiHome
 
 Or short URL: http://goo.gl/opVpb2
 
@@ -39,13 +39,13 @@ Or short URL: http://goo.gl/opVpb2
 [url.anylogic]: http://www.anylogic.com/downloads
 [jar.uil]: https://bitbucket.org/Quar/uil.tml/downloads/UtilityInvestLibrary.jar
 
-[uil.tml]: https://bitbucket.org/Quar/uil.tml
-[uil.about]: /Quar/uil.tml/wiki/About%20and%20FAQ.md
-[uil.wiki]: /Quar/uil.tml/wiki/Home
+[uil.tml]: https://github.com/Quar/uil.tml
+[uil.about]: https://github.com/Quar/UIL.TML/wiki/About-and-FAQ.md
+[uil.wiki]: https://github.com/Quar/UIL.TML/wiki
 
-[wiki.quickstart]: /Quar/uil.tml/wiki/pages/Quick%20Start%20Guide.md
-[wiki.role]: /Quar/uil.tml/wiki/pages/Role-playing.md
-[wiki.contrib]: /Quar/uil.tml/wiki/pages/Contribute%20to%20UIL.TML.md
+[wiki.quickstart]: https://github.com/Quar/UIL.TML/wiki/Quick-Start-Guide
+[wiki.role]: https://github.com/Quar/UIL.TML/wikipages/Role-playing.md
+[wiki.contrib]: https://github.com/Quar/UIL.TML/wiki/Contribute-to-UIL.TML
 
 [ext.jar]: https://en.wikipedia.org/wiki/JAR_%28file_format%29
 [ext.irp]: http://www.osti.gov/scitech/biblio/6719825
