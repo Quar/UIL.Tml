@@ -7,6 +7,7 @@ Utility Investment Library (UIL) is an [AnyLogic][ext.anylogic] library supports
 
 ### What is this repository for? ###
 
+* UIL.Tml stands for *template (Tml) repository of Utility Investment Library (UIL)*
 * This repository ([uil.tml][uil.tml]) is an end user repository of [UIL project][uil.about], dedeicate in hosting:
      - published binary UIL library in [Java Archive (JAR)][ext.jar] form
      - published financial model in Excel
