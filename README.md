@@ -31,9 +31,9 @@ Please visit our [**Quick Start Guide**][wiki.quickstart] for step-by-step instr
 
 All informations are hosted on our [**UIL Wiki**][uil.wiki].
 
-Please visit: https://github.com/Quar/UIL.TML/wikiHome
+Please visit: https://github.com/Quar/UIL.TML/wiki
 
-Or short URL: http://goo.gl/opVpb2
+Or short URL: http://goo.gl/TPb6iJ
 
 
 [url.anylogic]: http://www.anylogic.com/downloads
@@ -44,7 +44,7 @@ Or short URL: http://goo.gl/opVpb2
 [uil.wiki]: https://github.com/Quar/UIL.TML/wiki
 
 [wiki.quickstart]: https://github.com/Quar/UIL.TML/wiki/Quick-Start-Guide
-[wiki.role]: https://github.com/Quar/UIL.TML/wikipages/Role-playing.md
+[wiki.role]: https://github.com/Quar/UIL.TML/wiki/Role-playing.md
 [wiki.contrib]: https://github.com/Quar/UIL.TML/wiki/Contribute-to-UIL.TML
 
 [ext.jar]: https://en.wikipedia.org/wiki/JAR_%28file_format%29
