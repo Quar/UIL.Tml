@@ -1,17 +1,16 @@
 # README #
 
-This README document contains necessary steps to get [Utility Investment Library (UIL)][uil.wiki] setup and running.
+This README contains necessary steps to get [Utility Investment Library (UIL)][uil.wiki] setup and running.
 
 Utility Investment Library (UIL) is an [AnyLogic][ext.anylogic] library supports decision making for electric utility expansion. UIL provides a framework to automate [Integrated Resource Plan (IRP)][ext.irp] and perform prestigious statistical inferences for risk analysis.
 
 
 ### What is this repository for? ###
 
-* UIL.Tml stands for *template (Tml) repository of Utility Investment Library (UIL)*
-* This repository ([uil.tml][uil.tml]) is an end user repository of [UIL project][uil.about], dedeicate in hosting:
-     - published binary UIL library in [Java Archive (JAR)][ext.jar] form
-     - published financial model in Excel
-* As an end user repository, [uil.tml][uil.tml] contains all resources for all [roles of users][wiki.role].
+* *Tml* stands for template, this is the end user repository of [UIL project][uil.about], dedicated in hosting:
+     - published binary of UIL library as AnyLogic plugin
+     - templates of financial models in Excel
+* [UIL.Tml wiki][uil.tml.wiki] focusing on providing learning materials and references for end users as [modelers, financial analysts, and decision makers][wiki.role].
 * Visit our [UIL Wiki][uil.wiki] for more information.
 
 
@@ -42,6 +41,7 @@ Or short URL: http://goo.gl/TPb6iJ
 
 [uil.tml]: https://github.com/Quar/uil.tml
 [uil.about]: https://github.com/Quar/UIL.Tml/wiki/About-and-FAQ.md
+[uil.tml.wiki]: https://github.com/Quar/UIL.Tml/wiki
 [uil.wiki]: https://github.com/Quar/UIL.Tml/wiki
 
 [wiki.quickstart]: https://github.com/Quar/UIL.Tml/wiki/Quick-Start-Guide
